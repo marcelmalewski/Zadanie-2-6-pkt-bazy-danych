@@ -10,5 +10,5 @@ URI="bolt://localhost:7687"
 ### Założenia:
 * każdy Departament ma conajmniej jednego managera
 
-### Zadanie + endpoint:
-* Zadanie 8 `GET /departments/{departmentUuid}/details`
+### Endpoint do zadania 8:
+`GET /departments/{departmentUuid}/details`
